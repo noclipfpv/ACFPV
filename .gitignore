@@ -1,0 +1,7 @@
+# user data created by the app at runtime
+FpvDrone/settings/settings.json
+FpvDrone/settings/settings.json.bak
+FpvDrone/settings/presets/*
+!FpvDrone/settings/presets/defaultNoInput.json
+FpvDrone/flights/
+*.zip
